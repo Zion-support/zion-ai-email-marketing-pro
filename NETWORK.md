@@ -1,10 +1,17 @@
-# Zion AI Email Marketing Pro
+# Zion AI Email Marketing Pro — Zion App Network
 
-AI email marketing.
+Zion AI Email Marketing Pro — standalone AI email marketing app. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-growth-marketing-hub](https://github.com/Zion-support/ai-growth-marketing-hub) · [ai-email-classifier](https://github.com/Zion-support/ai-email-classifier) · [zion-ai-lead-scoring](https://github.com/Zion-support/zion-ai-lead-scoring) · [zion-crm-intelligence](https://github.com/Zion-support/zion-crm-intelligence) · [zion-ai-social-listening](https://github.com/Zion-support/zion-ai-social-listening)
+- 🔗 Live app: [https://email-marketing.ziontechgroup.com](https://email-marketing.ziontechgroup.com)
+- 🏠 Category: [Content & Marketing](https://github.com/Zion-support/zion-network/blob/main/network/content-marketing.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion Content Studio](https://github.com/Zion-support/zion-content-studio) — AI content studio
+- [Zion SEO Optimizer](https://github.com/Zion-support/zion-seo-optimizer) — AI SEO optimization
+- [AI Social Manager](https://github.com/Zion-support/ai-social-manager) — content scheduling and analytics
+- [Zion AI Social Listening](https://github.com/Zion-support/zion-ai-social-listening) — brand monitoring and sentiment
+- [AI Email Classifier](https://github.com/Zion-support/ai-email-classifier) — email classification
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
